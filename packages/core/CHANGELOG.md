@@ -1,5 +1,16 @@
 # @usedapp/core
 
+## 0.6.0
+
+### Minor Changes
+
+- 5042868: added support for Fantom
+
+### Patch Changes
+
+- 5042868: fantom support added
+- 5042868: Fantom support added, changeset note missing
+
 ## 0.5.2
 
 ### Patch Changes
